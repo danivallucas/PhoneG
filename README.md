@@ -1,0 +1,3 @@
+# PhoneG
+Testando Phone Gap
+Repositório criado no site...
